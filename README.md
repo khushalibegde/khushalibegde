@@ -26,16 +26,6 @@
 
 ---
 
-### 📌 Pinned Projects (You should actually pin these!)
-
-- 🧠 **Edusphere (private/public repo?)**  
-  Educational platform with a twist—split UX for differently-abled students and engineering crowd.
-
-- 🔐 **SLR Parser Tool**  
-  Web-based compiler project using Flask + JS for parsing grammar. Geeky and glorious.
-
----
-
 ### ⚡ Fun Facts
 - 🐍 Python is my first love. Streamlit is my current obsession.
 - 🧩 I gamify learning because textbooks are boring.
@@ -54,12 +44,11 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/khushalibegde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <!-- Add more links like portfolio, Twitter, etc., if you want -->
+  <a href="https://www.linkedin.com/in/khushali-begde-5b19bb276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 > ✨ *“Code like you’re crafting art, debug like you’re solving a mystery.”*  
-> — Khushu (probably)
+> — Khushali (probably)
 
