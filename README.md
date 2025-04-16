@@ -37,7 +37,6 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushalibegde&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=khushalibegde&theme=radical" />
 </p>
 
 ---
